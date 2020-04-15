@@ -1,0 +1,17 @@
+Thank you for this challenge.
+I tried my best but this is the closest I could get.
+I read that using the system function is not a good idea for 
+security reason but I could not figure out how to do it another way.
+
+To compile type in the terminal.
+g++ patrick_ping.cpp -o patrick_ping
+then run
+./patrick_ping
+
+The program will propmt a few questions as:
+	- the ping destination
+	- how many ping
+	- if you want to see the results in a file or not
+
+If you have any questions contac me at
+patrick.muler@gmail.com
